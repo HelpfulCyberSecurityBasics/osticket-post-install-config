@@ -46,7 +46,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - (Screenshot showing the "Roles" configuration page)
 - (Screenshot showing the "Departments" configuration page) 
 - (Screenshot showing the "Teams" configuration page)
-  <img width="591" height="299" alt="Screenshot 2026-02-01 at 12 04 13 PM" src="https://github.com/user-attachments/assets/8d7b730f-aeaf-4deb-9a1f-cc0f67312985" />
+<img width="594" height="301" alt="Screenshot 2026-02-01 at 12 14 02 PM" src="https://github.com/user-attachments/assets/932e0fc3-9f25-4a90-b262-d64f15818399" />
 <img width="764" height="316" alt="Screenshot 2026-02-01 at 12 04 25 PM" src="https://github.com/user-attachments/assets/bf001e6c-7a3c-4caf-8110-e7a64fc9bcb0" />
 <img width="745" height="228" alt="Screenshot 2026-02-01 at 12 05 24 PM" src="https://github.com/user-attachments/assets/55c670b9-5525-4faa-8d00-938c3b858dc9" />
 
