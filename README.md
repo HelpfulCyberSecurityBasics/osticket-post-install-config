@@ -28,10 +28,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1.  Accessing the osTicket Admin Panel (2:40):
+
+- The first step involves logging into the osTicket admin panel using the admin user username and password one (with a capital 'P') as the password. This provides access to all the system's configuration settings.
+- (Screenshot showing the osTicket Admin Panel).
+<img width="729" height="399" alt="Screenshot 2026-02-01 at 10 46 58 AM" src="https://github.com/user-attachments/assets/1163467a-42fc-4835-ad45-ff2b1aa8feb8" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
