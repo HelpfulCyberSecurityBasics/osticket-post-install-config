@@ -32,7 +32,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - The first step involves logging into the osTicket admin panel using the admin user username and password created during osTicket - Prerequisites and Installation. This provides access to all the system's configuration settings.
 - (Screenshot showing the osTicket Admin Panel).
-<img width="729" height="399" alt="Screenshot 2026-02-01 at 10 46 58 AM" src="https://github.com/user-attachments/assets/1163467a-42fc-4835-ad45-ff2b1aa8feb8" />
+<img width="646" height="221" alt="Screenshot 2026-02-01 at 12 12 51 PM" src="https://github.com/user-attachments/assets/d3c167cf-48aa-44cb-bd0c-a093363bb14d" />
+
 </p>
 <p>
 </p>
