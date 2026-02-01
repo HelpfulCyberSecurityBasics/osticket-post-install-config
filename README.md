@@ -56,9 +56,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. Configuring Users, SLAs, and Help Topics (6:01 - 19:20):
+
+- This final step involves preparing the system for end-users and ticket management. It covers allowing anyone to create tickets without registration, adding user profiles, setting up Service Level Agreements (SLAs) with different grace periods (e.g., "SLA A" for 1 hour), and defining help topics to categorize incoming requests (such as "Business Critical Outage" or "Personal Computer Issues").
+- (Screenshot showing the "User Settings" with "Registration Required" unchecked)
+- (Screenshot showing the "SLA Plans" configuration page)
+- (Screenshot showing the "Help Topics" configuration page)
+<img width="763" height="437" alt="Screenshot 2026-02-01 at 12 10 03 PM" src="https://github.com/user-attachments/assets/d99a046e-3a93-492c-b5c7-05d4c0afd2d4" />
+<img width="746" height="227" alt="Screenshot 2026-02-01 at 12 10 46 PM" src="https://github.com/user-attachments/assets/a8ac32fd-de8a-4110-828c-caee7aaeda29" />
+<img width="750" height="304" alt="Screenshot 2026-02-01 at 12 11 35 PM" src="https://github.com/user-attachments/assets/d741c6c7-bf30-4b3e-b10a-e11927a74f78" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
