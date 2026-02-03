@@ -57,7 +57,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-3. Configuring Users, SLAs, and Help Topics (6:01 - 19:20):
+3. Configuring Users, SLAs, and Help Topics:
 
 - This final step involves preparing the system for end-users and ticket management. It covers allowing anyone to create tickets without registration, adding user profiles, setting up Service Level Agreements (SLAs) with different grace periods (e.g., "SLA A" for 1 hour), and defining help topics to categorize incoming requests (such as "Business Critical Outage" or "Personal Computer Issues").
 - (Screenshot showing the "User Settings" with "Registration Required" unchecked)
